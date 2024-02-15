@@ -1,0 +1,1 @@
+want to check if I keep a file uncommited in current branch then how to commit in new branch
